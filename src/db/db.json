@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Melvin McGlynn",
+    "phone": "711-545-1370 x5598",
+    "email": "Kristy_Hilpert-Waelchi@hotmail.com",
+    "job": "Chief Marketing Administrator"
+  },
+  {
+    "name": "Anita Hirthe",
+    "phone": "587.480.6618 x307",
+    "email": "Sydnee_Torphy@gmail.com",
+    "job": "Forward Assurance Consultant"
+  },
+  {
+    "name": "Pauline Franey",
+    "phone": "748.444.0992 x309",
+    "email": "Rex_Corkery@yahoo.com",
+    "job": "Senior Implementation Facilitator"
+  },
+  {
+    "name": "Chris Breitenberg",
+    "phone": "755-367-3837 x411",
+    "email": "Haven.Quigley@yahoo.com",
+    "job": "Product Group Producer"
+  }
+]
